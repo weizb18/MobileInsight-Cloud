@@ -1,3 +1,18 @@
+### Clone this repo
+
+git clone --single-branch --branch master https://github.com/zachkoo/MobileInsight-Cloud.git
+
+### Install yarn
+
+npm install yarn
+yarn --version
+yarn
+
+### Run the frontend
+
+yarn start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
